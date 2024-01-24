@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+img{
+    width:95rem;
+    height: auto;
+    align-items:center;
+    justify-content:center ;
+}
